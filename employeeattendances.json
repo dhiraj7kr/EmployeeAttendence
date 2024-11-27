@@ -1,0 +1,38 @@
+[
+  {
+    "employee_id": 1001,
+    "name": "Aarav Sharma",
+    "number_of_days_present": 20,
+    "reason_for_absence": "Sick leave"
+  },
+  {
+    "employee_id": 1002,
+    "name": "Priya Patel",
+    "number_of_days_present": 22,
+    "reason_for_absence": "Family emergency"
+  },
+  {
+    "employee_id": 1003,
+    "name": "Vikram Singh",
+    "number_of_days_present": 24,
+    "reason_for_absence": "Personal work"
+  },
+  {
+    "employee_id": 1004,
+    "name": "Neha Desai",
+    "number_of_days_present": 25,
+    "reason_for_absence": "Vacation"
+  },
+  {
+    "employee_id": 1005,
+    "name": "Ravi Kumar",
+    "number_of_days_present": 18,
+    "reason_for_absence": "Medical treatment"
+  },
+  {
+    "employee_id": 1006,
+    "name": "Sanya Reddy",
+    "number_of_days_present": 23,
+    "reason_for_absence": "Sick leave"
+  }
+]
